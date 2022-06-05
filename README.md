@@ -1,2 +1,3 @@
 # first-resume
-my first resume business by html5 , css3 in github 
+# create the first front end project (html file resume) in github
+# ""tanks god for everything""
